@@ -70,11 +70,10 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:** KUKKADAPU CHARAN TEJ
 
 ### Register No:
-____________________________  
-
+212224040167
 ---
 
 ##  Output
